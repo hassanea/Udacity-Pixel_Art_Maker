@@ -1,11 +1,4 @@
 # Pixel Art Maker Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
+![KPBT's Homepage](https://github.com/hassanea/Udacity-Pixel_Art_Maker/blob/master/Pixel_Art_Maker_screenshot.jpg)
 
